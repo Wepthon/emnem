@@ -1,0 +1,16 @@
+{
+    "name": "ⒺⓂⓃⒺⓂ",
+    "description": "اهلا بكم في تنصيب النشر التلقائي الخاص ب ويردو",
+    "logo": "https://telegra.ph/file/03a01c59168bf8546ec55.jpg",
+    "stack": "container",
+    "repository": "https://t.me/rrrgrrg",
+    "keywords": ["python", "chatbot", "telegrambot"],
+    "website": "https://t.me/rrrgrrg",
+    "env": {
+        "SESSION": {
+            "description": "ضع الكود الذي شتريته من ويردو ",
+            "value": "",
+            "required": true
+        }
+    }
+}
